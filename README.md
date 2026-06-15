@@ -26,7 +26,15 @@ This project aims to develop an affordable and intelligent wearable solution tha
 * Create a low-cost solution using Raspberry Pi.
 
 ---
+## 📸 Project Images
 
+### Smart Cap Prototype
+
+![Smart Cap](images/PHOTO-2025-12-10-20-17-17.jpg)
+
+### Project Demonstration
+
+![Project Demo](images/PHOTO-2025-12-10-20-17-17%20(1).jpg)
 ## 🛠 Hardware Components
 
 * Raspberry Pi 4 Model B
